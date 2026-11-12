@@ -1,0 +1,4 @@
+interface:
+  display_name: "开发"
+  short_description: "以资深 AI 应用开发者的方式实现需求或修复 Bug，完成最小改动与自测自检"
+  default_prompt: "使用 $dev 结合需求或 $req 的结论完成开发，做最小必要改动，经自测、自检和反省后简洁交付。"
